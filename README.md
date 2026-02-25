@@ -6,7 +6,7 @@ I’m also a **growing Smart Contract Developer and Auditor**, passionate about 
 
 ## About Me
 
-💻 Experienced frontend and backend developer focused on delivering clean, maintainable code using Angular and Node.js, Laravel, .NET.  
+💻 Experienced frontend and backend developer focused on delivering clean, maintainable code using Angular and Node.js, Laravel, .NET, Android(Java/Kotlin), iOS(Swift).  
 🔐 Diving deeper into Solidity and smart contract development, learning best practices for secure and reliable blockchain apps.  
 🎯 Always eager to learn, improve, and contribute to exciting projects in both web and blockchain spaces.
 
@@ -14,7 +14,7 @@ I’m also a **growing Smart Contract Developer and Auditor**, passionate about 
 
 ## My Tech Stack
 
-- **Frontend:** Angular, React, Vue, JavaScript,TypeScript, RxJS, NgRx  
+- **Frontend:** Angular, React, Vue, JavaScript,TypeScript, RxJS, NgRx, Java, Kotlin  
 - **Backend:** Node.js, Laravel, .NET, REST APIs, MySQL  
 - **Blockchain:** Solidity (beginner), Smart Contract Auditing (learning), Ethereum basics  
 - **Tools:** Git, Docker, Testing, Jest, Karma
