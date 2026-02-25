@@ -1,4 +1,5 @@
-# Hi there 👋, I’m Cody(My preferred name is Koji Hayama)!
+# Hi there 👋, My name is Koji Hayama.!
+I’m pleased to connect and look forward to engaging in meaningful and professional discussions.
 I’m a **Senior Frontend Developer** with over a decade of experience creating robust, scalable web applications.  
 I’m also a **growing Smart Contract Developer and Auditor**, passionate about blockchain and eager to expand my skills in decentralized tech.
 
