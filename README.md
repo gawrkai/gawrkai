@@ -7,8 +7,8 @@ Currently expanding into **AI-driven development and intelligent systems**, appl
 
 ## About Me
 
-💻 Designing scalable web applications and APIs, Building responsive, high-performance frontend systems, Developing secure and maintainable backend services.
-🤖 Exploring LLM-powered applications and integrations, Building AI-assisted developer tools and automation workflows, Applying AI to improve product usability and system intelligence.
+💻 Designing scalable web applications and APIs, Building responsive, high-performance frontend systems, Developing secure and maintainable backend services.        
+🤖 Exploring LLM-powered applications and integrations, Building AI-assisted developer tools and automation workflows, Applying AI to improve product usability and system intelligence.        
 🎯 Always eager to learn, improve, and contribute to exciting projects in both web and AI spaces.
 
 ---
