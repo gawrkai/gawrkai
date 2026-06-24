@@ -1,15 +1,15 @@
-# Hi there 👋!
+# Hi there 👋, I’m a Senior Software Engineer!
 I’m pleased to connect and look forward to engaging in meaningful and professional discussions.
-I’m a **Senior Frontend Developer** with over a decade of experience creating robust, scalable web applications.  
-I’m also a **growing Smart Contract Developer and Auditor**, passionate about blockchain and eager to expand my skills in decentralized tech.
+I’m a **Senior Software Engineer** with over a decade of experience building scalable, maintainable, and production-ready web applications across frontend and backend systems.  
+Currently expanding into **AI-driven development and intelligent systems**, applying modern AI tools to real-world software solutions
 
 ---
 
 ## About Me
 
-💻 Experienced frontend and backend developer focused on delivering clean, maintainable code using Angular and Node.js, Laravel, .NET, Android(Java/Kotlin), iOS(Swift).  
-🔐 Diving deeper into Solidity and smart contract development, learning best practices for secure and reliable blockchain apps.  
-🎯 Always eager to learn, improve, and contribute to exciting projects in both web and blockchain spaces.
+💻 Designing scalable web applications and APIs, Building responsive, high-performance frontend systems, Developing secure and maintainable backend services.
+🤖 Exploring LLM-powered applications and integrations, Building AI-assisted developer tools and automation workflows, Applying AI to improve product usability and system intelligence.
+🎯 Always eager to learn, improve, and contribute to exciting projects in both web and AI spaces.
 
 ---
 
@@ -17,7 +17,7 @@ I’m also a **growing Smart Contract Developer and Auditor**, passionate about 
 
 - **Frontend:** Angular, React, Vue, JavaScript,TypeScript, RxJS, NgRx, Java, Kotlin  
 - **Backend:** Node.js, Laravel, .NET, REST APIs, MySQL  
-- **Blockchain:** Solidity (beginner), Smart Contract Auditing (learning), Ethereum basics  
+- **AI/Emerging Tech:** LLMs(OpenAI API, prompt engineering), AI integration in applications, automation workflows, AI-assisted development tools
 - **Tools:** Git, Docker, Testing, Jest, Karma
 
 **Languages and Tools:**
@@ -66,11 +66,12 @@ I’m also a **growing Smart Contract Developer and Auditor**, passionate about 
 ---
 
 ## What I Do
-
-- Build and maintain full-featured Angular and Node.js, Laravel applications  
-- Collaborate on smart contract projects and security audits as I grow my blockchain skills  
-- Write technical content to share knowledge and document my learning journey  
-- Enjoy mentoring and learning alongside other developers  
+- Build scalable full-stack web applications from design to deployment
+- Design clean and maintainable system architecture
+- Develop performant frontend interfaces with modern frameworks
+- Build and maintain RESTful APIs and backend services
+- Explore and integrate AI capabilities into software products
+- Work effectively in remote and distributed engineering teams  
 
 ---
 
